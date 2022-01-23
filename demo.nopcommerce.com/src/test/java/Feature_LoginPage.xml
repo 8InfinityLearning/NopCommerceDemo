@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+<parameters  name = "targetWebElem_Computers" value =""/>
+  <test name="Test">
+    <classes>
+      <class name="com.test.features.Feature_LoginPage"/>
+      <class name="com.test.features.Feature_ComputersSection"/>
+      
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
