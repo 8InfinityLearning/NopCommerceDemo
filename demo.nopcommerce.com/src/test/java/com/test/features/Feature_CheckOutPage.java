@@ -81,7 +81,7 @@ public class Feature_CheckOutPage
 	   
 	   loginPage.chromeDriver.findElement(By.xpath("//body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[4]/div[2]/div[1]/button[1]")).click();
 
-	   Thread.sleep(2000);
+	   Thread.sleep(3000);
 
 	   loginPage.chromeDriver.findElement(By.xpath("//body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[4]/div[2]/div[1]/button[1]")).click();
 
